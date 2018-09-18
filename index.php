@@ -22,6 +22,9 @@
     <li><a href="php_constants.php">PHP constants</a></li>
     <li><a href="php_operator.php">PHP Operator</a></li>
     <li><a href="php_condition.php">PHP Conditional statement</a></li>
+    <li><a href="php_loop.php">PHP Loop</a></li>
+    <li><a href="php_function.php">PHP Function</a></li>
+    <li><a href="php_array.php">PHP Array</a></li>
 </ul>
 </body>
 </html>
