@@ -25,6 +25,8 @@
     <li><a href="php_loop.php">PHP Loop</a></li>
     <li><a href="php_function.php">PHP Function</a></li>
     <li><a href="php_array.php">PHP Array</a></li>
+    <li><a href="php_superglobals.php">PHP SuperGlobals</a></li>
+    <li><a href="php_form_validation.php">PHP Form validation</a></li>
 </ul>
 </body>
 </html>
