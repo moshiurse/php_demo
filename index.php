@@ -27,6 +27,9 @@
     <li><a href="php_array.php">PHP Array</a></li>
     <li><a href="php_superglobals.php">PHP SuperGlobals</a></li>
     <li><a href="php_form_validation.php">PHP Form validation</a></li>
+    <li><a href="php_dare_time.php">PHP Date Time</a></li>
+    <li><a href="php_file_handle.php">PHP File Handling</a></li>
+    <li><a href="php_file_upload.php">PHP File Upload</a></li>
 </ul>
 </body>
 </html>
